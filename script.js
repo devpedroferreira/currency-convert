@@ -15,7 +15,7 @@ function convertValues (){
     const dolarToday = 6.08
     const euroToday = 6.30
     const libraToday = 7.57
-    const bitcoinToday = 597.635
+    const bitcoinToday = 597635
 
     // dolar calc
     // const convertedValue = inputCurrrencyValue / dolarToday
